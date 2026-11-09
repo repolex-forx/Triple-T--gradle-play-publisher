@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Triple-T/gradle-play-publisher/commit/18af18281213c2da5d1031505aae56bf5857a74d",
       "git:hexsha": "18af18281213c2da5d1031505aae56bf5857a74d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/Triple-T/gradle-play-publisher/commit/9b7a7a43f228e847e17cbc56adc5b72569023b7e",
