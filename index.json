@@ -1,0 +1,11 @@
+{
+  "org": "Triple-T",
+  "repo": "gradle-play-publisher",
+  "versions": [
+    {
+      "commit": "18af18281213c2da5d1031505aae56bf5857a74d",
+      "tag": "",
+      "parsed_at": "2026-11-09T23:09:38.988290+00:00"
+    }
+  ]
+}
